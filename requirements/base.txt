@@ -90,7 +90,7 @@ vcfpy
 pysam==0.15.2
 
 # Filter query generation
-sqlalchemy ==1.2.13
+sqlalchemy ==1.3.0
 
 # SQL Alchemy and Django integrate
 SQLAlchemy ==1.2.13
